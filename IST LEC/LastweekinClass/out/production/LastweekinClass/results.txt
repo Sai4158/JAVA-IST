@@ -1,0 +1,7 @@
+Name        Grade    Letter
+student1    96.00    A
+student2    85.33    B
+student3    74.00    C
+Student4    80.00    B
+Student5    66.67    D
+Student6    55.00    F
